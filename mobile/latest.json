@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 4,
-  "notes": "Mise a jour de maintenance.",
+  "versionName": "1.0.4",
+  "versionCode": 5,
+  "notes": "Correction du bouton « À livrer plus tard » au point de vente.",
   "apk": {
-    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.3/app-bralima-release.apk",
-    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.3/app-bracongo-release.apk"
+    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.4/app-bralima-release.apk",
+    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.4/app-bracongo-release.apk"
   }
 }
