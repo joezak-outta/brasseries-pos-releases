@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "notes": "Test de la mise a jour automatique (1.0.1 vers 1.0.2).",
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "notes": "Mise a jour de maintenance.",
   "apk": {
-    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.2/app-bralima-release.apk",
-    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.2/app-bracongo-release.apk"
+    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.3/app-bralima-release.apk",
+    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.3/app-bracongo-release.apk"
   }
 }
