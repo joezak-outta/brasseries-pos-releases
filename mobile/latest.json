@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
-  "notes": "Correction du bouton « À livrer plus tard » au point de vente.",
+  "versionName": "1.0.5",
+  "versionCode": 6,
+  "notes": "Impression de secours sur imprimante Bluetooth (PT-210) si l'imprimante interne du POS ne repond plus.",
   "apk": {
-    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.4/app-bralima-release.apk",
-    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.4/app-bracongo-release.apk"
+    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.5/app-bralima-release.apk",
+    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.5/app-bracongo-release.apk"
   }
 }
