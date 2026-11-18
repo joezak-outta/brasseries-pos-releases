@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 6,
-  "notes": "Impression de secours sur imprimante Bluetooth (PT-210) si l'imprimante interne du POS ne repond plus.",
+  "versionName": "1.0.6",
+  "versionCode": 7,
+  "notes": "Le montant du credit tient desormais sur une seule ligne a l'impression.",
   "apk": {
-    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.5/app-bralima-release.apk",
-    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.5/app-bracongo-release.apk"
+    "bralima": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.6/app-bralima-release.apk",
+    "bracongo": "https://github.com/joezak-outta/brasseries-pos-releases/releases/download/mobile-v1.0.6/app-bracongo-release.apk"
   }
 }
